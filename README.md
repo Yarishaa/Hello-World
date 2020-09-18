@@ -1,3 +1,3 @@
 # Hello-World
-Testing git and repositories
+Test git and repositories
 and also adding this line 
